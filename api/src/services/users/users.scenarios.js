@@ -1,7 +1,7 @@
 export const standard = defineScenario({
   user: {
     one: {
-      id: 'Int'
+      id: 'Int',
       firstName: 'String',
       lastName: 'String',
       password: 'String',
